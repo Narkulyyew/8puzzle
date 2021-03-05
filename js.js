@@ -1,4 +1,4 @@
-var texts = [' Solve Puzzle and Win ?','by Seydulla Narkulyyev',' Enjoy !'];
+var texts = [' Solve Puzzle and Win ','by Seydulla Narkulyyev',' Enjoy !'];
 
 var first = document.querySelector('#first');
 var i = 0;
