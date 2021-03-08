@@ -8,8 +8,8 @@
 }
 
 .images{
-	width: 455px;
-	height: 455px;
+	width: 460px;
+	height: 460px;
 	display: grid;
 	grid-template-columns: auto auto auto;
 	border:1px solid grey;
